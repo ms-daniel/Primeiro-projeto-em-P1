@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1576422876 source:c:\users\noisq\onedrive\Área de trabalho\mcroscas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio2.h>
+	<locale.h>
+	<windows.h>
+
+1576422829 source:c:\users\noisq\onedrive\Área de trabalho\mcroscas\resource.rc
+
+1576422829 source:c:\users\campeão\downloads\mcroscas\resource.rc
+
+1576441127 source:c:\users\campeão\downloads\mcroscas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio2.h>
+	<locale.h>
+	<windows.h>
+
+1576422829 source:c:\users\eu sou lindo\downloads\mcroscas\mcroscas\resource.rc
+
+1582834281 source:c:\users\eu sou lindo\downloads\mcroscas\mcroscas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio2.h>
+	<locale.h>
+	<windows.h>
+	<time.h>
+
+1576422829 source:c:\users\eu sou lindo\downloads\mcroscas trabalhop com beeps\mcroscas\resource.rc
+
+1583244946 source:c:\users\eu sou lindo\downloads\mcroscas trabalhop com beeps\mcroscas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio2.h>
+	<locale.h>
+	<windows.h>
+	<time.h>
+
