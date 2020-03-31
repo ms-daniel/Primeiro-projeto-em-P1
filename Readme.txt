@@ -1,5 +1,1 @@
-Mc Roscas!
-
-
-1-Abra a pasta bin\debug e execute o McRoscas.exe 
-2-… recomend·vel aumentar ou maximizar o tamanho da ·rea de execuÁ„o.
+Essa vers√£o est√° mais optimizada com a adi√ß√£o de fun√ß√µes e redu√ß√£o dr√°stica do programa original.
