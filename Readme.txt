@@ -1,7 +1,6 @@
 Mc Roscas!
 
+Ã‰ um programa que simula compras em uma padaria.
 
-1-Abra a pasta bin\debug e execute o McRoscas.exe 
-2-É recomendável aumentar ou maximizar o tamanho da área de execução.
 
-Abraços e boa correção.
+1-Ã‰ recomendado maximizar em um dos cantos (esquerdo ou direito) o tamanho da Ã¡rea de execuÃ§Ã£o do programa.
