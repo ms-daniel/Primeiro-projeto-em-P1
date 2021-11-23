@@ -2,4 +2,7 @@ Mc Roscas!
 
 
 1-Abra a pasta bin\debug e execute o McRoscas.exe 
-2-… recomend·vel aumentar ou maximizar o tamanho da ·rea de execuÁ„o.
+2-√â recomend√°vel aumentar ou maximizar o tamanho da √°rea de execu√ß√£o.
+
+Desenvolvido por Carlos Daniel de Jesus (ms_danniel@outlook.com)
+E por            Lauro Santana Silva    (bestlaurobr@gmail.com)
